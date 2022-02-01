@@ -1,4 +1,3 @@
-const array = [1, 4, 5, 6];
-
-const sum = array.reducer(a, (b) => a + b);
-console.log(sum);
+const a = 10;
+const b = 10;
+console.log(a + b);
